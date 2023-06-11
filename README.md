@@ -1,4 +1,5 @@
 Chess Game
+![Capture](https://github.com/harryongit/chess_game/assets/74458044/78566aeb-48de-4a83-b62d-4039643a201c)
 
 To run: python chess.py
 
