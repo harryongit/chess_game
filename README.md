@@ -39,7 +39,7 @@ A sophisticated chess implementation with a graphical user interface built using
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/chess_game.git
+   git clone https://github.com/harryongit/chess_game.git
    cd chess_game
    ```
 
@@ -107,7 +107,7 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 For support or queries:
 - Create an issue in the GitHub repository
-- Email: your.email@example.com
+- Email: harryshastri21@gmail.com
 
 ---
 
